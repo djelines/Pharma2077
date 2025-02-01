@@ -18,7 +18,7 @@ PHARMA2077 est une application de gestion de pharmacie en mode console. Ce proje
 ## 🎮 Instructions d'utilisation  
 1️⃣ **Clonez ce dépôt**  
 ```bash
-git clone https://github.com/ton-utilisateur/PHARMA2077.git
+git clone https://github.com/djelines/PHARMA2077.git
 cd PHARMA2077
 ```
 2️⃣ **Compilez et exécutez**  
